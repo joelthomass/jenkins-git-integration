@@ -1,1 +1,1 @@
-print("Hello from Jenkins!")
+print('Updated Poll SCM')
